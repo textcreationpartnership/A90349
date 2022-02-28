@@ -1,0 +1,472 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The kernell of Christianity containing a short yet full summe of our communion with Christ. / By Mr Francis Peck Mr of Arts, minister of the word and pastor at Hartford. Imprimatur Iohn Downame.</title>
+            <author>Peck, Francis, d. 1651.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90349</idno>
+            <idno type="STC">Wing P1032</idno>
+            <idno type="STC">Thomason E1186_3</idno>
+            <idno type="STC">ESTC R210218</idno>
+            <idno type="EEBO-CITATION">99869035</idno>
+            <idno type="PROQUEST">99869035</idno>
+            <idno type="VID">170687</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90349)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170687)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 256:E1186[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The kernell of Christianity containing a short yet full summe of our communion with Christ. / By Mr Francis Peck Mr of Arts, minister of the word and pastor at Hartford. Imprimatur Iohn Downame.</title>
+                  <author>Peck, Francis, d. 1651.</author>
+               </titleStmt>
+               <extent>[2], 11+ p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G.M. for Iohn Bellamy at the signe of the three Golden-Lyons near the Royall-Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Person and offices --  Early works to 1800.</term>
+               <term>Christianity --  Creeds --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170687:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 23 -->
+            <p>THE KERNELL OF CHRISTIANITY: CONTAINING A SHORT YET FVLL Summe of our Communion with CHRIST.</p>
+            <p>By M FRANCIS PECK M<hi rend="sup">r</hi> of Arts, Miniſter of the Word and Pa<g ref="char:EOLhyphen"/>ſtor at <hi>Hartford.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>Iohn Downame.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed By <hi>G. M.</hi> for <hi>Iohn Bellamy</hi> at the ſigne of the three Golden-Lyons near the Royall-Exchange, 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:170687:2"/>
+            <!-- PDF PAGE 24 -->
+            <pb n="1" facs="tcp:170687:2"/>
+            <!-- PDF PAGE 24 -->
+            <head>THE KERNELL OF <hi>Christianity.</hi>
+            </head>
+            <p>Q <hi>
+                  <seg rend="decorInit">W</seg>Hat is every owne bound to know that lookes to be ſaved?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Two things.</p>
+            <list>
+               <item>1. Something concerning God.</item>
+               <item>2 Something concerning Man.</item>
+            </list>
+            <p>Q <hi>What ought you to know and beleeve con<g ref="char:EOLhyphen"/>cerning God?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> That there is owne moſt glorious God. <hi>Deut.</hi> 6.4. <hi>Exod.</hi> 33.18.</p>
+            <p>Q <hi>How doth it appeare that God is ſo glorious?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In foure particulars.</p>
+            <list>
+               <item>1. In his Effence, which is incomprehenſible.</item>
+               <item>2. In his attributes, which are thoſe divine perfections wherby hee makes himſelfe known to us, which attributes are not qua<g ref="char:EOLhyphen"/>lities in God, but nature. Gods Iuſtice is God himſelfe, and Gods povver is God himſelfe &amp;c.</item>
+               <pb n="2" facs="tcp:170687:3"/>
+               <!-- PDF PAGE 25 -->
+               <item>3. In his perſons, which are three.
+<list>
+                     <item>1. The Father begetting.</item>
+                     <item>2. The Sonne begotten.</item>
+                     <item>3. The Holy Ghoſt proceeding.</item>
+                     <item>1 The Father is glorious in regard of Election.</item>
+                     <item>2. The Sonne is glorious in regard of Redemption.</item>
+                     <item>3. The Holy Ghoſt is glorious in regard of Application.</item>
+                     <item>1. The Father is glorious in chooſing the houſe. that is in the heart of a poore ſinner.</item>
+                     <item>2. The Sonne is glorious in purchaſing the houſe. that is in the heart of a poore ſinner.</item>
+                     <item>3. The Hoy Ghoſt is glorious in dvvelling in the houſe. that is in the heart of a poore ſinner.</item>
+                  </list> 
+               </item>
+               <item>4. In his vvorkes.</item>
+            </list>
+            <p>Q <hi>What are thoſe?</hi>
+            </p>
+            <p>A.
+<list>
+                  <item>1. His decrees of
+<list>
+                        <item>Election.</item>
+                        <item>Reprobation</item>
+                     </list>
+                  </item>
+                  <item>2. His vvorkes of
+<list>
+                        <item>Creation.</item>
+                        <item>Providence.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>Q <hi>What ought you to know and beleeve con<g ref="char:EOLhyphen"/>cerning his worke of creation?</hi>
+            </p>
+            <p>A. That this one glorious God made all things of nothing in ſix dayes in excellent or<g ref="char:EOLhyphen"/>der and very good. <hi>Heb.</hi> 11.3. <hi>Exod.</hi> 20.11. <hi>Gen</hi> 1.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1.</p>
+            <p>Q <hi>What ought you to know and beleeve con<g ref="char:EOLhyphen"/>cerning the work of providence?</hi>
+            </p>
+            <p>A. That this one glorious God vviſely orde<g ref="char:EOLhyphen"/>reth, governeth, and diſpoſeth of all things, even to the leaſt circumſtance, <hi>Mat.</hi> 6.26. <hi>&amp;c. and</hi> 10, 29, 30.</p>
+            <pb n="3" facs="tcp:170687:3"/>
+            <!-- PDF PAGE 25 -->
+            <p>Q. <hi>What ought you to know and beleeve con<g ref="char:EOLhyphen"/>cerning man?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Theſe ſix things follovving:
+<list>
+                  <item>1. What vvas the glorious, and happy condi<g ref="char:EOLunhyphen"/>tion of man by creation.</item>
+                  <item>2. What that miſerable, and lamentable e<g ref="char:EOLhyphen"/>ſtate is, that man is novv fallen into.</item>
+                  <item>3. What Ieſus Chriſt is, the only meanes of deliverance out of this eſtate.</item>
+                  <item>4. What faith is, the only meanes of apply<g ref="char:EOLhyphen"/>ing Chriſt, and hovv it is vvrought in the ſoule.</item>
+                  <item>5. What that happy eſtate is, that every man that is in Chriſt by Faith, is brought unto.</item>
+                  <item>6. What kind of thankfulneſſe, and life it is, that God requires of all them that be in this eſtate by Chriſt.</item>
+               </list>
+            </p>
+            <p>Q. <hi>What are you to know concerning the glori<g ref="char:EOLhyphen"/>ous condition of man by Creation?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> God created all man-kind in his ovvne Image.</p>
+            <p>Q <hi>Wherein did the Image of God conſiſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In perfect knovvledge, righteouſneſſe, and holyneſſe. <hi>Col.</hi> 3.10. <hi>Epheſ</hi> 4 24.</p>
+            <p>Q. <hi>Man being created in a moſt happy conditi<g ref="char:EOLhyphen"/>on, wherein did his happineſſe conſiſt?</hi>
+            </p>
+            <p>
+               <hi>A</hi> In two things eſpecially:
+<list>
+                  <item>1. His underſtanding vvas full of divine knovvledge of the vvhole mind of God.</item>
+                  <item>2. His vvill and affections vvere fully confor<g ref="char:EOLhyphen"/>mable to Gods vvill.</item>
+               </list>
+            </p>
+            <p>Q <hi>Wherein did mans happineſſe further con<g ref="char:EOLhyphen"/>ſiſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In five things:
+<list>
+                  <item>1. He vvas in favour vvith God.</item>
+                  <pb n="4" facs="tcp:170687:4"/>
+                  <!-- PDF PAGE 26 -->
+                  <item>2. He had familiar communion vvith God.</item>
+                  <item>3. He felt unſpeakable joy ariſing from this communion.</item>
+                  <item>4. He had dominion over all inferior crea<g ref="char:EOLhyphen"/>tures.</item>
+                  <item>5. He vvas immortall, and ſhould never have taſted of death, if hee had not fallen by ſinne.</item>
+               </list>
+            </p>
+            <p>Q. <hi>Doth this any way concerne us?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes; his eſtate vvas ours in him; vvee being then in his loynes.</p>
+            <p>Q. <hi>What learne you by this?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Three things:</p>
+            <p n="1">1. To lament and bevvaile the loſſe of this condition by ſinne.</p>
+            <p n="2">2. That I ought to labour to get this jmage of God repayred in me.</p>
+            <p n="3">3. That I ought not to be aſhamed of holy<g ref="char:EOLhyphen"/>neſſe, nor to content my ſelfe vvith ſome ſmall meaſures of it, much leſſe to hate it, as pro<g ref="char:EOLhyphen"/>fane perſons and diſſembling hypocrites doe.</p>
+            <p>
+               <hi>Q. What is that miſerable and lamentable e<g ref="char:EOLhyphen"/>ſtate that man is now fallen into?</hi>
+            </p>
+            <p>A. His miſery novv appeares in foure things.</p>
+            <p n="1">1. In his birth: he is borne dead in ſinne and ſo void of all good, and full of all evill, and ſo a child of vvrath. <hi>Epheſ.</hi> 2.1, 2, 3, 4. <hi>Rom.</hi> 1.29.</p>
+            <p n="2">2. In his life, vvhatſoever he doth is ſinne in Gods ſight. <hi>Tit.</hi> 1.15. God and all creatures are his enemies. <hi>Pſal.</hi> 5.5. <hi>Iob.</hi> 5.23. he re<g ref="char:EOLhyphen"/>maines a bondſlave of Satan til God convert him. <hi>Acts.</hi> 26.18. and hangs by the tvvine<g ref="char:EOLhyphen"/>thred of life every moment ready to drop into hell.</p>
+            <p n="3">3. In his death: then comes an end of all
+<pb n="5" facs="tcp:170687:4"/>
+               <!-- PDF PAGE 26 -->his hopes, and pleaſures, and the beginning of all his vvoes and ſorrovves.</p>
+            <p n="4">4. After death: Firſt comes his particular judgement. <hi>Heb.</hi> 9.27. after this follovves his generall judgement, vvhen that terrible ſen<g ref="char:EOLhyphen"/>tence, 25. <hi>and the</hi> 41. <hi>ver.</hi> ſhall be preſſed upon him. After this follovves the execution, vvhere<g ref="char:EOLhyphen"/>in the vialls of Gods fierce vvrath are povvred out upon his ſoule and body, vvhich fire ſhall never be quenched.</p>
+            <p>
+               <hi>Q. Wherein doth the aggravation of this wo<g ref="char:EOLhyphen"/>full eſtate of man by nature appeare?</hi>
+            </p>
+            <p>A. In three particulars:
+<list>
+                  <item>1. He knovves not his miſery. <hi>Rev.</hi> 3.17</item>
+                  <item>2. He is not affected vvith it, though hee ſhould knovv it. <hi>Rom.</hi> 2.5.</item>
+                  <item>3. Hee is unable of himſelfe to come out of it, though he ſhould both knovv it and be af<g ref="char:EOLhyphen"/>fected vvith it. <hi>Rom.</hi> 5.6.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Q. What learne you from hence?</hi>
+            </p>
+            <p>A. I learne that Gods vvrath againſt ſinne, and ſinnefull man (temaining in this condion) is very great.</p>
+            <p>
+               <hi>Q. How great is it?</hi>
+            </p>
+            <p>A. So great that nothing (vvithout Chriſt) but eternall death of body and ſoule in the ever<g ref="char:EOLhyphen"/>laſting torments of hell can ſatisfie Gods juſt diſpleaſure. <hi>Gal.</hi> 3.10.</p>
+            <p>
+               <hi>Q. Is it beſt now to ſee your miſerable conditi<g ref="char:EOLhyphen"/>on by nature, and to ſeele this wrath of God, and mourne under it while there is hope, and meanes to come out of it; or to ſtay till the gate of grace be ſhut; and God ſnatches the ſoule from all hope, and meanes by death?</hi>
+            </p>
+            <p>A. It's farre better to ſee it, and to mourne under it novv.</p>
+            <pb n="6" facs="tcp:170687:5"/>
+            <!-- PDF PAGE 27 -->
+            <p>
+               <hi>Q. How, and why muſt a man ſee and feele him<g ref="char:EOLhyphen"/>ſelfe under this wrath and miſery?</hi>
+            </p>
+            <p>A. 1. Every man muſt ſee that he is under Gods vvrath for the preſent; elſe he vvill ne<g ref="char:EOLhyphen"/>ver ſeeke to Chriſt to beare it for him.</p>
+            <p n="2">2. Man muſt ſee vvhat this fearefull vvrath of God is, that is novv piled againſt him; elſe he vvill never prize Chriſt to deliver him out of it.</p>
+            <p n="3">3. All men muſt ſee that this vvrath is ready to light on them every moment in the full mea<g ref="char:EOLhyphen"/>ſure of it; elſe they vvill deferre their returne till hereafter.</p>
+            <p n="4">4 A man muſt ſee hee is bound hand and foot in the chaines of his ſinnes, and cannot come from under them, nor lay hould of Chriſt to help him out of them; elſe he vvill preſume he hath received Chriſt vvhen he hath not.</p>
+            <p>
+               <hi>Q. What is to be knowne of every one concer<g ref="char:EOLhyphen"/>ning Ieſus Chriſt, the only meanes of deliverance out of this eſtate?</hi>
+            </p>
+            <p>A. Theſe foure things:</p>
+            <p n="1">1. What his perſon is, namely, both God and man united into one perſon, which is Ieſus Chriſt.</p>
+            <p n="2">2. What his love is tovvards man, namely paſt underſtanding. <hi>Epheſ</hi> 3.18, 19.</p>
+            <p n="3">3. What his offices are, vvhich are theſe three.</p>
+            <p n="1">1. His Prieſtly office, whereby he offered himſelfe for his Church <hi>Heb.</hi> 7.27.</p>
+            <p n="2">2. His Propheticall office, whereby he tea<g ref="char:EOLhyphen"/>cheth his Church. <hi>Acts</hi> 3.22.</p>
+            <p n="3">3. His Kingly office, whereby he rules his Church. <hi>Pſal.</hi> 2.6.</p>
+            <pb n="7" facs="tcp:170687:5"/>
+            <!-- PDF PAGE 27 -->
+            <p n="4">4. Hovv he delivers thoſe, vvhom he purpo<g ref="char:EOLhyphen"/>ſeth to ſave, hamely by being made ſinne, and curſe and righteouſneſſe for them. 2. <hi>Cor.</hi> 5.21. <hi>Gal.</hi> 3.13. 1. <hi>Cor.</hi> 1.30.</p>
+            <p>
+               <hi>Q. What learne you from hence?</hi>
+            </p>
+            <p>A. I learne that all my ſinnefull duties, no nor my death, cannot pacifie Gods vvrath, and deliver mee from it: It is done only by the perfect righteouſneſſe and death of Ieſus Chriſt.</p>
+            <p>
+               <hi>Q. How may we come to get this Chriſt to doe all for us?</hi>
+            </p>
+            <p>A. By receiving him by Faith. <hi>Ioh.</hi> 1.12.</p>
+            <p>
+               <hi>Q. When may a man without preſumption re<g ref="char:EOLhyphen"/>ceive Chriſt as his owne?</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 11.28, 29</note>
+            </p>
+            <p>A. 1 When the poore ſoule is ſo vveary, and heavy laden vvith the apprehenſion of ſinne, and vvrath that it cannot live vvithout Chriſt.</p>
+            <p n="2">2. When the poore ſinner is ſo out of love vvith himſelfe, that he is content to part vvith all ſinne for Chriſt. <hi>Iſa.</hi> 55.7.</p>
+            <p n="3">3. When the poore ſinner receives Chriſt to that end that God the Father offers him, namely to be his Prieſt, Prophet, and King.</p>
+            <p>
+               <hi>Q How may a man come to receive Chriſt? can man create Faith in himſelfe to receive him, or muſt the Lord by an infinite almighty power worke it in him?</hi>
+            </p>
+            <p>A. The Lord muſt create faith in him by his almighty povver. <hi>Epheſ.</hi> 1.19.</p>
+            <p>
+               <hi>Q. What is to be knowne concerning faith, the only meanes of applying Chriſt?</hi>
+            </p>
+            <p>A. Tvvo things
+<list>
+                  <item>1. vvhat Faith is.</item>
+                  <item>2. Hovv it is vvrought in the ſoule.</item>
+               </list>
+            </p>
+            <pb n="8" facs="tcp:170687:6"/>
+            <!-- PDF PAGE 28 -->
+            <p>Q. <hi>What is Faith?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a ſpeciall grace of God, vvhereby an humbled ſinner feeling himſelfe unable to be<g ref="char:EOLhyphen"/>leeve,
+<note place="margin">
+                  <hi>Mat.</hi> 11.28.</note> is dravvne, and ſo comes by the helpe of Gods Spirit to Chriſt for all good, and ſo reſts upon him. <hi>Iob.</hi> 6.44, 45. <hi>Phil.</hi> 3.7, 8, 9.</p>
+            <p>Q. <hi>How doth the Lord worke this Faith in the ſoule by his mighty power, and how comes the ſoule to know it is wrought?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By theſe nine ſteps:</p>
+            <p n="1">1. The Lord gives the ſoule a liſtning eare to the vvord preached, as if God himſelfe vvere ſpeaking to it.</p>
+            <p n="2">2. The Lord makes the ſoule to underſtand the word. <hi>Mat.</hi> 13.23.</p>
+            <p n="3">3. The Lord ſavingly vvounds the ſoule, vvith the ſence and apprehenſion of his loſt e<g ref="char:EOLhyphen"/>ſtate; having underſtood it. <hi>Acts.</hi> 2.37.</p>
+            <p n="4">4. <note place="margin">
+                  <hi>Act</hi> 5.6.9.</note> Then the Lord makes the ſoule poore in ſpirit, ready to dye for vvant of grace, and Chriſt. <hi>Mat.</hi> 5.3.</p>
+            <p n="5">5. <note place="margin">
+                  <hi>Iohn.</hi> 3.16.</note> The Lord reveales unto the ſoule the free<g ref="char:EOLhyphen"/>neſſe of his grace and mercy in Chriſt, and then brings the ſoule to ponder on this mercy, from vvhence ariſeth hope of helpe; hereupon hope comes and waites one Chriſt for it, ſeing novv it is poſſible that an unvvorthy ſinfull, loſt crea<g ref="char:EOLhyphen"/>ture may have it. <hi>Ioel.</hi> 2.14. <hi>Ionah</hi> 3.9.</p>
+            <p n="6">6. <note place="margin">
+                  <hi>Epheſ.</hi> 2.7.</note> The Lord reveales the riches of his mer<g ref="char:EOLhyphen"/>cy in Chriſt, whereby the ſoule hungers after it. <hi>Mat.</hi> 5.6. and is not quiet vvithout it, hence he deſires, and longs, and beggs for it, vvith un<g ref="char:EOLhyphen"/>utterable groanes, ſeeing and knovving (vvith the prodigall) that there is enough in his fa<g ref="char:EOLhyphen"/>thers houſe.
+<note place="margin">
+                  <hi>Luke.</hi> 15.</note> 
+               <hi>Rom.</hi> 8.26.</p>
+            <pb n="9" facs="tcp:170687:6"/>
+            <!-- PDF PAGE 28 -->
+            <p n="7">7. Then the Lord reveales the vvorth and excellency of his mercy in Chriſt,
+<note place="margin">
+                  <hi>Epheſ.</hi> 3.7</note> and hereby makes the ſoule to love it. Hence love to this mercy comes ſecretly, and contents it ſelfe vvith it; hereupon the ſoule promiſeth if it may but have this mercy in the Lord Ieſus to pitty it, and receive it; it vvill everlaſtingly ovvne it, and admire the Lord for it. <hi>Lam.</hi> 3.24.</p>
+            <p n="8">8. <note place="margin">
+                  <hi>Pſal.</hi> 63.3.</note> The Lord reveales the ſvveetneſſe of his mercy in the Lord Ieſus, and hereby gives the ſoule a ſatisfying taſte of it, and hence the <hi>will</hi> comes and is perſvvaded vvith joy to leave it ſelfe for ever upon it, here to live, or here to dye. <hi>Pſal.</hi> 39.7.</p>
+            <p n="9">9. The ſoule being thus come up to Chriſt; the Lord doth at laſt reveale the property of mercy to him, (thus beleeving) vvhereby the ſoule is novv aſſured, and perſvvaded that nei<g ref="char:EOLhyphen"/>ther height, nor depth ſhall ſeperate him from Gods love in Chriſt. <hi>Rom.</hi> 8.38, 39.</p>
+            <p>Q. <hi>What is that happy condition that every one doth injoy, who are thus in Chriſt by Faith<g ref="char:punc">▪</g>
+               </hi>
+            </p>
+            <p>
+               <hi>A.</hi> It conſiſt in tvvo things:
+<list>
+                  <item>1. Union with Chriſt.</item>
+                  <item>2. The benefits vvhich the ſoule doth injoy hereby.</item>
+               </list>
+            </p>
+            <p>Q. <hi>What is <g ref="char:V">Ʋ</g>nion with Chriſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is that vvhereby the Spirit makes the ſoule one vvith Chriſt, and Chriſt all to it. 1. <hi>Cor.</hi> 6.17. <hi>Col.</hi> 3.11.</p>
+            <p>Q. <hi>What benefits doth the ſoule immediatly injoy by Vnion with Chriſt?</hi>
+            </p>
+            <pb n="10" facs="tcp:170687:7"/>
+            <!-- PDF PAGE 29 -->
+            <p>
+               <hi>A.</hi> Theſe foure
+<list>
+                  <item>1. Iuſtification.</item>
+                  <item>2. Reconciliation.</item>
+                  <item>3. Adoption.</item>
+                  <item>4. Regeneration.</item>
+               </list>
+            </p>
+            <p>Q. <hi>What is Iuſtification?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a gracious act of God the Father, vvhereby hee imputing the finnes of a belee<g ref="char:EOLhyphen"/>ver to Chriſt, and Chriſts righteouſneſſe to him, he accounts him guiltleſſe, and iuſt be<g ref="char:EOLhyphen"/>fore him. <hi>Rom.</hi> 3.26.4.3.5.5.1. 2 <hi>Cor.</hi> 5.21. <hi>Epheſ.</hi> 1.7. <hi>Col.</hi> 1.14. <hi>Pſalm.</hi> 32.1, 2.</p>
+            <p>Q. <hi>What is reconciliation?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a moſt gratious act of God the Fa<g ref="char:EOLhyphen"/>ther offended, vvhereby he receives into his favour a juſtified ſinner. 2 <hi>Cor.</hi> 5.18, 19. <hi>Col.</hi> 1.21.</p>
+            <p>Q. <hi>What is Adoption?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A gracious act of God the Father, vvhereby he accounts a reconciled ſinner his ſonne, and ſo makes him coheire vvith Chriſt. <hi>Gal.</hi> 4.5, 6.</p>
+            <p>Q. <hi>What is Regeneration?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is a gratious act of God in the heart of his ſonnes, vvhereby in uniting them un<g ref="char:EOLhyphen"/>to Chriſt, hee infuſeth a moſt glorious life into them. <hi>Epheſ.</hi> 2.10. <hi>and</hi> 4.24.</p>
+            <p>Q. <hi>What followes a beleevers <g ref="char:V">Ʋ</g>nion with Chriſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Tvvo things.
+<list>
+                  <item>1. Coalition, or grovving up vvith Chriſt</item>
+                  <item>2. Glorification.</item>
+               </list>
+            </p>
+            <p>Q <hi>By what meanes or wherein doth a be<g ref="char:EOLhyphen"/>leeving ſoule grow up with Chriſt?</hi>
+            </p>
+            <pb n="11" facs="tcp:170687:7"/>
+            <!-- PDF PAGE 29 -->
+            <p>
+               <hi>A.</hi> By increaſe of Faith and ſanctification</p>
+            <p>Q <hi>Wherein doth ſanctification conſiſt?</hi>
+            </p>
+            <p n="1">1. In mortification, or dying daily to ſinne.</p>
+            <p n="2">2. In vivification, or living daily to Chriſt. <hi>Rom.</hi> 6.3, 4, 5. <hi>Rom.</hi> 8.11.</p>
+            <p>Q <hi>How are Faith and ſanctification con<g ref="char:EOLhyphen"/>firmed and increaſed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By the ſame meanes that they are begun by, and alſo by receiving of the Sacraments.</p>
+            <p>Q. <hi>How many Sacraments be there?</hi>
+            </p>
+            <p>A. Tvvo
+<list>
+                  <item>1. Baptiſme, vvhich confirmes our Regeneration, or nevv birth.</item>
+                  <item>2. The Lords Supper, vvhich ſig<g ref="char:EOLhyphen"/>nifies and ſeales our grovvth in Chriſt.</item>
+               </list>
+            </p>
+            <p>Q <hi>What is a beleevers glorification?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> When death hath ſvvallovved the bo<g ref="char:EOLhyphen"/>dies of Gods faithfull Servants, their bleſ<g ref="char:EOLhyphen"/>ſed ſoules are taken up to Chriſt, and ſvval<g ref="char:EOLhyphen"/>lovved up in Glory vvhich never ſhall have an end. 1. <hi>Theſ.</hi> 4.17.</p>
+            <p>Q. <hi>What kind of thankfullneſse and life is that which God requires of all them that be in this eſtate by Ieſus Chriſt?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Lord requires of them to an<g ref="char:EOLhyphen"/>ſvver his infinite love vvith their love againe, to the praiſe of Ieſus Chriſt, teſti<g ref="char:EOLhyphen"/>fied by obedience to the morral lavv, obſer<g ref="char:EOLhyphen"/>ving it (though not as a covenant of vvorkes, yet) as a rule of life, according to his vvill. <hi>Iohn.</hi> 14.15, 21.</p>
+            <p>Q. <hi>What is this called?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Serving of God. <hi>Luk.</hi> 1.74, 75.</p>
+            <p>Q <hi>How muſt this be performed?</hi>
+            </p>
+            <gap reason="missing" extent="3 pages">
+               <desc>〈3 pages missing〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
